@@ -1,0 +1,12 @@
+---
+title: "Analyse article"
+output: github_document
+auteur : Emilie JEANSON
+---
+
+SRA run selector 
+metadata
+European Nucleotid Archive pour aller cherhcer les sequences
+
+
+
